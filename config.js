@@ -1,6 +1,6 @@
 /* Link de tu Apps Script (Implementar → Gestionar implementaciones → URL que termina en /exec).
    Si algún día cambias de implementación, cambia solo esta línea. */
-window.API_URL = 'https://script.google.com/macros/s/AKfycbw_faxj-YJxJtePx_wehPjWbK4M5edtXzbpGb-9pXmrzqKvwGQ-7NC6B8XiqG-j30vcPg/exec';
+window.API_URL = 'https://script.google.com/macros/s/AKfycbw4p5XgXCYnqSOTG0ZQnUzwVVpTu3BU3Bh9YaJrA4mWx4dKkBxmC0bpTfT2t7Y00e967w/exec';
 
 /* Modo demo (datos de prueba guardados en el navegador): solo en tu PC o agregando ?demo=1 al link */
 window.DEMO = /^(localhost|127\.0\.0\.1)$/.test(location.hostname) || /[?&]demo=1/.test(location.search);
